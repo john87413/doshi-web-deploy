@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/doshi-web-deploy/static/css/main.bbd0b7ba.chunk.css",
-    "main.js": "/doshi-web-deploy/static/js/main.c422a3c2.chunk.js",
-    "main.js.map": "/doshi-web-deploy/static/js/main.c422a3c2.chunk.js.map",
+    "main.js": "/doshi-web-deploy/static/js/main.69fdb67c.chunk.js",
+    "main.js.map": "/doshi-web-deploy/static/js/main.69fdb67c.chunk.js.map",
     "runtime-main.js": "/doshi-web-deploy/static/js/runtime-main.d5800b2a.js",
     "runtime-main.js.map": "/doshi-web-deploy/static/js/runtime-main.d5800b2a.js.map",
     "static/js/2.327ad208.chunk.js": "/doshi-web-deploy/static/js/2.327ad208.chunk.js",
     "static/js/2.327ad208.chunk.js.map": "/doshi-web-deploy/static/js/2.327ad208.chunk.js.map",
     "index.html": "/doshi-web-deploy/index.html",
-    "precache-manifest.bcf6b021c085dc5f8869f204d5ea3425.js": "/doshi-web-deploy/precache-manifest.bcf6b021c085dc5f8869f204d5ea3425.js",
+    "precache-manifest.b818b6f697f67adb1421853166f7fefb.js": "/doshi-web-deploy/precache-manifest.b818b6f697f67adb1421853166f7fefb.js",
     "service-worker.js": "/doshi-web-deploy/service-worker.js",
     "static/css/main.bbd0b7ba.chunk.css.map": "/doshi-web-deploy/static/css/main.bbd0b7ba.chunk.css.map",
     "static/js/2.327ad208.chunk.js.LICENSE.txt": "/doshi-web-deploy/static/js/2.327ad208.chunk.js.LICENSE.txt",
@@ -23,6 +23,6 @@
     "static/js/runtime-main.d5800b2a.js",
     "static/js/2.327ad208.chunk.js",
     "static/css/main.bbd0b7ba.chunk.css",
-    "static/js/main.c422a3c2.chunk.js"
+    "static/js/main.69fdb67c.chunk.js"
   ]
 }
