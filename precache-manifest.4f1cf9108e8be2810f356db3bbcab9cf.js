@@ -1,31 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5f689b55bdb4da5d020258604dfd6110",
+    "revision": "2be38e4918a20f6dea6e48997c00cd2f",
     "url": "/doshi-web-deploy/index.html"
   },
   {
-    "revision": "c397d676e7cb76101e5d",
+    "revision": "a76be3c67291b1207eab",
     "url": "/doshi-web-deploy/static/css/2.8dbe6964.chunk.css"
   },
   {
-    "revision": "2eb4dcc07519b3621c92",
+    "revision": "491f9bd164831c20a766",
     "url": "/doshi-web-deploy/static/css/main.a95f9bcd.chunk.css"
   },
   {
-    "revision": "c397d676e7cb76101e5d",
-    "url": "/doshi-web-deploy/static/js/2.1994126a.chunk.js"
+    "revision": "a76be3c67291b1207eab",
+    "url": "/doshi-web-deploy/static/js/2.bb72da41.chunk.js"
   },
   {
     "revision": "b67bc97fd0dd67004287af4028afc1b1",
-    "url": "/doshi-web-deploy/static/js/2.1994126a.chunk.js.LICENSE.txt"
+    "url": "/doshi-web-deploy/static/js/2.bb72da41.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2eb4dcc07519b3621c92",
-    "url": "/doshi-web-deploy/static/js/main.3f451114.chunk.js"
+    "revision": "491f9bd164831c20a766",
+    "url": "/doshi-web-deploy/static/js/main.2a194265.chunk.js"
   },
   {
-    "revision": "69734f7236c96dd1b041",
-    "url": "/doshi-web-deploy/static/js/runtime-main.d5800b2a.js"
+    "revision": "a23ebd93c725fc932fd7",
+    "url": "/doshi-web-deploy/static/js/runtime-main.b71974f9.js"
   },
   {
     "revision": "683a37880147b7664167e09456c6e5ca",

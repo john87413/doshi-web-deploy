@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/doshi-web-deploy/static/css/main.a95f9bcd.chunk.css",
-    "main.js": "/doshi-web-deploy/static/js/main.3f451114.chunk.js",
-    "main.js.map": "/doshi-web-deploy/static/js/main.3f451114.chunk.js.map",
-    "runtime-main.js": "/doshi-web-deploy/static/js/runtime-main.d5800b2a.js",
-    "runtime-main.js.map": "/doshi-web-deploy/static/js/runtime-main.d5800b2a.js.map",
+    "main.js": "/doshi-web-deploy/static/js/main.2a194265.chunk.js",
+    "main.js.map": "/doshi-web-deploy/static/js/main.2a194265.chunk.js.map",
+    "runtime-main.js": "/doshi-web-deploy/static/js/runtime-main.b71974f9.js",
+    "runtime-main.js.map": "/doshi-web-deploy/static/js/runtime-main.b71974f9.js.map",
     "static/css/2.8dbe6964.chunk.css": "/doshi-web-deploy/static/css/2.8dbe6964.chunk.css",
-    "static/js/2.1994126a.chunk.js": "/doshi-web-deploy/static/js/2.1994126a.chunk.js",
-    "static/js/2.1994126a.chunk.js.map": "/doshi-web-deploy/static/js/2.1994126a.chunk.js.map",
+    "static/js/2.bb72da41.chunk.js": "/doshi-web-deploy/static/js/2.bb72da41.chunk.js",
+    "static/js/2.bb72da41.chunk.js.map": "/doshi-web-deploy/static/js/2.bb72da41.chunk.js.map",
     "index.html": "/doshi-web-deploy/index.html",
-    "precache-manifest.896720409e4a5a254c77db60dc62e6b8.js": "/doshi-web-deploy/precache-manifest.896720409e4a5a254c77db60dc62e6b8.js",
+    "precache-manifest.4f1cf9108e8be2810f356db3bbcab9cf.js": "/doshi-web-deploy/precache-manifest.4f1cf9108e8be2810f356db3bbcab9cf.js",
     "service-worker.js": "/doshi-web-deploy/service-worker.js",
     "static/css/2.8dbe6964.chunk.css.map": "/doshi-web-deploy/static/css/2.8dbe6964.chunk.css.map",
     "static/css/main.a95f9bcd.chunk.css.map": "/doshi-web-deploy/static/css/main.a95f9bcd.chunk.css.map",
-    "static/js/2.1994126a.chunk.js.LICENSE.txt": "/doshi-web-deploy/static/js/2.1994126a.chunk.js.LICENSE.txt",
+    "static/js/2.bb72da41.chunk.js.LICENSE.txt": "/doshi-web-deploy/static/js/2.bb72da41.chunk.js.LICENSE.txt",
     "static/media/iconfont.css": "/doshi-web-deploy/static/media/iconfont.eb0d8fe3.svg",
     "static/media/logo.png": "/doshi-web-deploy/static/media/logo.0abe28a8.png",
     "static/media/logo_pure.png": "/doshi-web-deploy/static/media/logo_pure.e18798ae.png",
@@ -22,10 +22,10 @@
     "static/media/search.png": "/doshi-web-deploy/static/media/search.012bd65d.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.d5800b2a.js",
+    "static/js/runtime-main.b71974f9.js",
     "static/css/2.8dbe6964.chunk.css",
-    "static/js/2.1994126a.chunk.js",
+    "static/js/2.bb72da41.chunk.js",
     "static/css/main.a95f9bcd.chunk.css",
-    "static/js/main.3f451114.chunk.js"
+    "static/js/main.2a194265.chunk.js"
   ]
 }
