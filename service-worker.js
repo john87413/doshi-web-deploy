@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/doshi-web-deploy/precache-manifest.1f86a160869ddbe34303ff6742d51a3f.js"
+  "/doshi-web-deploy/precache-manifest.896720409e4a5a254c77db60dc62e6b8.js"
 );
 
 self.addEventListener('message', (event) => {
