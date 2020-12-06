@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8977a77755606baf3ae720174a1ad6f8",
+    "revision": "88105e188992cc40f696757eda07efd1",
     "url": "./doshi-web-deploy/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./doshi-web-deploy/static/css/2.8dbe6964.chunk.css"
   },
   {
-    "revision": "d341ef1c4647aa813386",
+    "revision": "1d8bfbf4d0d48f6a4a13",
     "url": "./doshi-web-deploy/static/css/main.e6ac8de6.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./doshi-web-deploy/static/js/2.700a5e4e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d341ef1c4647aa813386",
-    "url": "./doshi-web-deploy/static/js/main.72256b66.chunk.js"
+    "revision": "1d8bfbf4d0d48f6a4a13",
+    "url": "./doshi-web-deploy/static/js/main.68a48fd1.chunk.js"
   },
   {
     "revision": "540ee756766a448660b1",
